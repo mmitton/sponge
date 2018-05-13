@@ -1,0 +1,11 @@
+plugins {
+    id 'org.spongepowered.plugin' version '0.8.1'
+}
+
+group = 'com.github.mmitton.sponge.waypoints'
+version = '0.1'
+description = 'Waypoints Plugin'
+
+dependencies {
+    compile 'org.spongepowered:spongeapi:7.0.0'
+}
